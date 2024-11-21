@@ -1,3 +1,5 @@
 11,jdk_x64_linux,jdk-11.0.25+9
 11,jre_x64_alpine,jdk-11.0.25+9
 11,jre_ppc64le_linux,jdk-11.0.25+9
+17_jdk_x64_linux_jdk-0.0.0
+17_jre_x64_alpine_jdk-0.0.0
