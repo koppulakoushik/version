@@ -3,4 +3,4 @@
 11,jre_ppc64le_linux,jdk-
 21,jdk_x64_linux,jdk-21.0.5+11
 21,jre_x64_alpine,jdk-21.0.5+11
-21,jre_ppc64le_linux,jdk-
+21,jre_ppc64le_linux,jdk-1
